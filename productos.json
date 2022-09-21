@@ -1,0 +1,358 @@
+{
+    "status": "success",
+    "items": [
+        {
+            "id": 1,
+            "title": "GeForce RTX 3090",
+            "price": 1.119,
+            "image": "img/3090.png",
+            "category": "Grafica"
+        },
+        {
+            "id": 2,
+            "title": "GeForce RTX 3080",
+            "price": 858,
+            "image": "img/3080.png",
+            "category": "Grafica"
+        },
+        {
+            "id": 3,
+            "title": "ROG MAXIMUS Z690 HERO EVA",
+            "price": 649,
+            "image": "img/p610.png",
+            "category": "Motherboard"
+        },
+        {
+            "id": 4,
+            "title": "TUF-GAMING-650B",
+            "price": 90,
+            "image": "Img/650W.png",
+            "category": "Fuentes de Poder"
+        },
+        {
+            "id": 5,
+            "title": "TUF-GAMING-550B",
+            "price": 65,
+            "image": "Img/550W.png",
+            "category": "Fuentes de Poder"
+        },
+
+
+
+     
+       
+        {
+            "id": 6,
+            "title": "ROG-STRIX-850G",
+            "price": 139,
+            "image": "Img/850W.png",
+            "category": "Fuentes de Poder"
+        },
+        {
+            "id": 7,
+            "title": "GeForce RTX 2080",
+            "price": 899,
+            "image": "img/2080.png",
+            "category": "Grafica"
+
+        },
+        {
+            "id": 8,
+            "title": "GeForce GTX 1650s ",
+            "price": 200,
+            "image": "img/1650.png",
+            "category": "Grafica"
+
+        },
+        {
+            "id": 9,
+            "title": "Disco Duro laptop",
+            "price": 40,
+            "image": "img/DL500.jpg",
+            "category": "disco duro"
+        },
+        {
+            "id": 10,
+            "title": "GeForce GTX 1080 Ti ",
+            "price": 500,
+            "image": "img/1080.png",
+            "category": "Grafica"
+        },
+        {
+            "id": 11,
+            "title": "PRIME Z690-A",
+            "price": 269,
+            "image": "img/p690.png",
+            "category": "Motherboard"
+        },
+
+       
+
+
+
+
+
+
+
+
+
+        {
+            "id": 12,
+            "title": "ROG-THOR-1200P",
+            "price": 309,
+            "image": "Img/1200W.png",
+            "category": "Fuentes de Poder"
+        },
+       
+        {
+            "id": 13,
+            "title": "ROG RYUJIN II 360 ARGB EVA",
+            "price": 269,
+            "image": "img/E360.png",
+            "category": "Disipador"
+        },
+        {
+            "id": 14,
+            "title": "Disco Duro HDD",
+            "price": 35,
+            "image": "img/DH.jpg",
+            "category": "disco duro"
+        },
+
+       
+        {
+            "id": 15,
+            "title": "TUF-GAMING-750B",
+            "price": 129,
+            "image": "Img/750W.png",
+            "category": "Fuentes de Poder"
+        },
+        {
+            "id": 16,
+            "title": "disco duro M.2",
+            "price": 118,
+            "image": "img/DM980.jpg",
+            "category": "disco duro"
+        },
+
+        {
+            "id": 17,
+            "title": "GeForce RTX 3060",
+            "price": 300,
+            "image": "img/3060.png",
+            "category": "Grafica"
+        },
+
+
+
+
+
+
+
+
+
+    
+        {
+            "id": 18,
+            "title": "TF120 ARGB Fan",
+            "price": 59,
+            "image": "img/E120.png",
+            "category": "Disipador"
+        },
+        {
+            "id": 19,
+            "title": "ProArt B660-CREATOR D4",
+            "price": 199,
+            "image": "img/p666.png",
+            "category": "Motherboard"
+        },
+        {
+            "id": 20,
+            "title": "TUF GAMING LC 240 ARGB",
+            "price": 119,
+            "image": "img/E240.png",
+            "category": "Disipador"
+        },
+      
+        {
+            "id": 21,
+            "title": "GeForce RTX 3070",
+            "price": 629,
+            "image": "img/3070.png",
+            "category": "Grafica"
+        },
+        {
+            "id": 22,
+            "title": "Thermaltake UX100 ARGB",
+            "price": 17,
+            "image": "img/E100.jpg",
+            "category": "Disipador"
+
+        },
+
+
+
+
+
+
+
+
+
+
+
+        {
+            "id": 23,
+            "title": "PRIME H610M-F D4",
+            "price": 99,
+            "image": "img/p610.png",
+            "category": "Motherboard"
+
+        },
+       
+        {
+            "id": 24,
+            "title": "VENGEANCE RGB PRO 8GB",
+            "price": 72,
+            "image": "img/R48.jpg",
+            "category": "Memoria RAM"
+        },
+      
+      
+        {
+            "id": 25,
+            "title": " Intel Core i5 Core 12400F",
+            "price": 174,
+            "image": "img/C5.jpg",
+            "category": "Procesador"
+        },
+        {
+            "id": 26,
+            "title": "Core i3-10100F",
+            "price": 69,
+            "image": "img/C3.jpg",
+            "category": "Procesador"
+        },
+
+        {
+            "id": 27,
+            "title": "ROG Strix Z590-E WiFi",
+            "price": 229,
+            "image": "img/p590.jpg",
+            "category": "Motherboard"
+        },
+        {
+            "id": 28,
+            "title": "GIGABYTE B560 AORUS PRO AX",
+            "price": 129,
+            "image": "img/p560.jpg",
+            "category": "Motherboard"
+        },
+        {
+            "id": 29,
+            "title": "MSI MAG B550 TOMAHAWK",
+            "price": 169,
+            "image": "img/p550.jpg",
+            "category": "Motherboard"
+        },
+
+
+
+
+        
+       
+        {
+            "id": 30,
+            "title": "RAM DDR3 4GB 8GB 1600MHz",
+            "price": 25,
+            "image": "img/R38.jpg",
+            "category": "Memoria RAM"
+        },
+        {
+            "id":31 ,
+            "title": "RAM DDR3 4GB 8GB 1333mhz",
+            "price": 14,
+            "image": "img/R38r.jpg",
+            "category": "Memoria RAM"
+        },
+       
+        {
+            "id": 32,
+            "title": "LED RGB RAM DDR4 16GB",
+            "price": 114,
+            "image": "img/RBGr.jpg",
+            "category": "Memoria RAM"
+        },
+        {
+            "id": 33,
+            "title": "Cooler Master Hyper 212",
+            "price": 34,
+            "image": "img/E212.jpg",
+            "category": "Disipador"
+        },
+
+
+
+
+
+
+
+        {
+            "id": 34,
+            "title": "Intel Core i9-10900F",
+            "price": 400,
+            "image": "img/C9.jpg",
+            "category": "Procesador"
+        },
+        {
+            "id": 35,
+            "title": "AMD Ryzen 7 5700G",
+            "price": 236,
+            "image": "img/CR7.jpg",
+            "category": "Procesador"
+        },
+        {
+            "id": 36,
+            "title": "Intel® Core™ i7-10700F",
+            "price": 355,
+            "image": "img/C7.jpg",
+            "category": "Procesador"
+        },
+        {
+            "id": 37,
+            "title": "AMD Ryzen 5 5600X",
+            "price": 194,
+            "image": "img/CR5.jpg",
+            "category": "Procesador"
+        },
+        {
+            "id": 38,
+            "title": "8GB 16GB DDR4 3000MHz",
+            "price": 57,
+            "image": "img/R164.jpg",
+            "category": "Memoria RAM"
+        },
+    
+
+
+
+        
+        {
+            "id": 39,
+            "title": "Disco duro solido",
+            "price": 64,
+            "image": "img/D960.jpg",
+            "category": "disco duro"
+        },
+        {
+            "id": 40,
+            "title": "Disco duro externo",
+            "price": 59,
+            "image": "img/DE710.jpg",
+            "category": "disco duro"
+        }
+
+    
+
+       
+    ]
+}
